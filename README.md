@@ -1,2 +1,2 @@
-# forex_Vantage
+# Forex_Vantage
 Using AlphaVantageAPI for fetching and analysing forex data.
