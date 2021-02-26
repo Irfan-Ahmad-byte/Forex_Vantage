@@ -3,10 +3,10 @@
 In this section I will use Alpha Vantage API to analyze forex data. Let's first import some required libraries. To use any API we are generally required to pass an API key with the search parameters. So, for AlphaVantageAPI we can get one from https://www.alphavantage.co/. In this approach I'll rather use a library by RomellTorres to explore the AlphaVantageAPI, and not the API site.
 Let's begin.
 
-`
+```
 import pandas as pd        #for dataframe visualization
 from alpha_vantage.foreignexchange import ForeignExchange as FX    #library to use AlphaVantageAPI without link requests
-`
+```
 
 ### Markdown
 
