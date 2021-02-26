@@ -7,6 +7,11 @@ Let's begin.
 import pandas as pd        #for dataframe visualization
 from alpha_vantage.foreignexchange import ForeignExchange as FX    #library to use AlphaVantageAPI without link requests
 ```
+* The alpha_vantage Library is the library I'm going to use to interact with Alpha Vantage API. Full documentation is available at [https://github.com/RomelTorres/alpha_vantage].
+
+`APIkey = 'ABC'`
+
+* We'll replace 'ABC' with our API key
 
 ### Markdown
 
