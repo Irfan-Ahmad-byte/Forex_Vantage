@@ -621,13 +621,7 @@ fig.update_layout(
     paper_bgcolor="LightSteelBlue",
 )
 ```
-
-<div>                
-    
-    <div id="a694e134-4f64-469c-8d65-6ccf1522119d" class="plotly-graph-div" style="height:700px; width:1000px;"></div>     
-    ![png](Using%20AlphaVantageAPI_files/Using%20AlphaVantageAPI_37_0.png)
-    
-</div>
+![png](Using%20AlphaVantageAPI_files/Using%20AlphaVantageAPI_37_0.png)
 
 
 Hurrah, we have plotted candlesticks for EURUSD.
