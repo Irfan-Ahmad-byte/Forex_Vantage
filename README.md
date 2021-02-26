@@ -9,7 +9,7 @@ from alpha_vantage.foreignexchange import ForeignExchange as FX    #library to u
 ```
 * The alpha_vantage Library is the library I'm going to use to interact with Alpha Vantage API. Full documentation is available at [https://github.com/RomelTorres/alpha_vantage].
 
-`APIkey = 'ABC'`
+```APIkey = 'ABC'```
 
 * We'll replace 'ABC' with our API key
 
