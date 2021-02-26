@@ -1,5 +1,5 @@
 # Using Alpha Vantage API to Analyse Financial Data
-In this section I will use Alpha Vantage API to analyze forex data. Let's first import some required libraries. To use any API we are generally required to pass an API key with the search parameters. So, for AlphaVantageAPI we can get one from https://www.alphavantage.co/. In this approach I'll rather use a library by RomellTorres to explore the AlphaVantageAPI, and not the API site.
+In this section I will use Alpha Vantage API to analyze forex data. Let's first import some required libraries. To use any API we are generally required to pass an API key with the search parameters. So, for AlphaVantageAPI we can get one from [here](hrome-error://chromewebdata). In this approach I'll rather use a library by [RomellTorres](https://github.com/RomelTorres/alpha_vantage) to explore the AlphaVantageAPI, and not the API site.
 Let's begin.
 
 
